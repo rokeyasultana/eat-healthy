@@ -8,12 +8,11 @@ h1{
     margin-left: 0px;
 
 }
-.orange span{
-    color: orange;
+h1 span{
+ color: orange;
 }
-.orange{
-    color: orange;
-}
+
+
 .flexible-container{
     display: flex;
     margin-bottom: 100px;
